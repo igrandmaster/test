@@ -1,3 +1,3 @@
 update tables
-set name = 'table';
+set name = 'table1';
 commit;
